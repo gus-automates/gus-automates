@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Gus 👋
 
-<!--
-**gus-automates/gus-automates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gusparreira-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gusparreira/)
 
-Here are some ideas to get you started:
+I build internal tooling and automation systems that connect AI to real business operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+- 🤖 AI agent workflows using Claude and the Model Context Protocol (MCP)
+- 📊 Financial data pipelines connecting QuickBooks Online to Google Sheets
+- 🛠️ Business process automation using Google Apps Script and Google Workspace
+
+---
+
+## Projects
+
+| Repo | What it does |
+|---|---|
+| [ai-ops-assistant](https://github.com/gus-automates/ai-ops-assistant) | Chat interface for querying business data in plain English — powered by Claude |
+| [qbo-sheets-integration](https://github.com/gus-automates/qbo-sheets-integration) | Live QuickBooks Online → Google Sheets pipeline via OAuth2 and Apps Script |
+| [claude-mcp-toolkit](https://github.com/gus-automates/claude-mcp-toolkit) | MCP server configurations connecting Claude to real business workflows |
+
+---
+
+## Stack
+
+`Google Apps Script` `Claude API` `MCP` `QuickBooks Online API` `Node.js` `Google Workspace` `OAuth2`
+
+---
+
+*Building in Ottawa, ON 🇨🇦*
