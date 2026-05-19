@@ -16,6 +16,7 @@ Currently focused on:
 | Repo | What it does |
 |---|---|
 | [cadlex](https://github.com/gus-automates/cadlex) | End-to-end RAG pipeline over 880+ Canadian federal statutes — local embeddings, ChromaDB, Gemini, and a streaming FastAPI chat interface |
+| [lego-mosaic-creator](https://github.com/gus-automates/lego-mosaic-creator) | Convert any photo into a buildable LEGO mosaic with live preview and BrickLink export |
 | [sop-generator](https://github.com/gus-automates/sop-generator) | Generates Standard Operating Procedure Document from plain-language description |
 | [ai-ops-assistant](https://github.com/gus-automates/ai-ops-assistant) | Chat interface for querying business data in plain English — powered by Claude |
 | [qbo-sheets-integration](https://github.com/gus-automates/qbo-sheets-integration) | Live QuickBooks Online → Google Sheets pipeline via OAuth2 and Apps Script |
